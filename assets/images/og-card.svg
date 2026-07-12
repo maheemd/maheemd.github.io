@@ -1,0 +1,17 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630">
+      <stop stop-color="#0A5B55"/>
+      <stop offset="1" stop-color="#143D39"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1060" cy="80" r="230" fill="#45B8AA" opacity=".18"/>
+  <circle cx="100" cy="640" r="260" fill="#D6A83B" opacity=".16"/>
+  <rect x="90" y="88" width="84" height="84" rx="24" fill="#ffffff"/>
+  <text x="132" y="145" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#0F766E">MM</text>
+  <text x="90" y="280" font-family="Arial, sans-serif" font-size="68" font-weight="800" fill="#ffffff">Muhibbullah MD</text>
+  <text x="90" y="345" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#72D5C8">Known as Mahee</text>
+  <text x="90" y="435" font-family="Arial, sans-serif" font-size="29" fill="#E5F2F0">Energy Economics Researcher · Electrical Engineer</text>
+  <text x="90" y="480" font-family="Arial, sans-serif" font-size="29" fill="#E5F2F0">Technology Entrepreneur</text>
+</svg>
