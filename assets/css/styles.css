@@ -1321,3 +1321,56 @@ blockquote {
     color: inherit;
   }
 }
+
+/* ===== CUSTOM HERO DESIGN ===== */
+
+/* Center the complete introduction section */
+.hero-copy {
+  align-self: center;
+  max-width: 760px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+/* Keep the introduction paragraph centered */
+.hero-summary {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Center the buttons */
+.hero-actions {
+  justify-content: center;
+}
+
+/* Center GitHub and LinkedIn links */
+.hero-links {
+  justify-content: center;
+}
+
+/* Remove the large frame around the profile section */
+.hero-card {
+  max-width: 430px;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  transform: none;
+  justify-self: center;
+}
+
+/* Remove the frame and rounded corners from the photo */
+.hero-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+}
